@@ -1,0 +1,3 @@
+[submodule "base images/ubuntu"]
+	path = base images/ubuntu
+	url = https://github.com/mjose-portfolio/docker-ubuntu-base_image
